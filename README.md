@@ -9,5 +9,5 @@
 <li>Postgresql for database</li>
 <li>Heroku for deployment</li>
 
-
+<br/>
 <p>To view the project <a href="http://thedjangoblogger.herokuapp.com/">Click Here!</a>
